@@ -14,5 +14,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tour of Heroes by alro-dev on feature branch with rebase';
+  title = 'Tour of Heroes by alro-dev on feature branch 3';
 }
